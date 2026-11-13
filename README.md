@@ -144,21 +144,21 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 *Screenshots collected as evidence during the activities:*
 
-![whois output](1_whois1.png)
+![whois output](Screenshots/1_whois1.png)
 
-![whatweb output](5_whatweb.png)
+![whatweb output](Screenshots/5_whatweb.png)
 
-![nslookup output](6_nslookup.png)
+![nslookup output](Screenshots/6_nslookup.png)
 
-![curl output](7_curl.png)
+![curl output](Screenshots/7_curl.png)
 
-![wafw00f output](8_wafw00f.png)
+![wafw00f output](Screenshots/8_wafw00f.png)
 
-![dnsrecon output](9_dnsrecon.png)
+![dnsrecon output](Screenshots/9_dnsrecon.png)
 
-![zemap output](10_zemap1.png)
+![zemap output](Screenshots/10_zemap.png)
 
-![Zenmap scan and topology](11_zemap2.png)
+![Zenmap scan and topology](Screenshots/11_zemap-topology.png)
 
 -End-
 
