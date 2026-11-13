@@ -158,7 +158,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![zemap output](Screenshots/10_zemap.png)
 
-![Zenmap scan and topology](Screenshots/11_zemap-topology.png)
+![Zenmap scan and topology](Screenshots/11_zenmap-topology.png)
 
 -End-
 
