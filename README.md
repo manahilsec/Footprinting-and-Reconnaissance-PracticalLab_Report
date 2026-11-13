@@ -1,4 +1,4 @@
-# Footprinting-and-Reconnaissance-PracticalLab_Report# PENETRATION TESTING REPORT (SAMPLE)
+# Footprinting-and-Reconnaissance-PracticalLab_Report# PENETRATION TESTING REPORT
 ### Footprinting & Network Scanning Phases
 
 **W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
@@ -7,7 +7,7 @@
 |---|---|
 | **Pentester Name (Cybersecurity Professional)** | **Manahil** |
 | **Program/Batch** | B084-Networkwalks |
-| **Date** | 12 Nov 2026 |
+| **Date** | 13 Nov 2026 |
 | **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
 | **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
 | **Permission secured from client?** | Yes |
@@ -65,12 +65,10 @@ I first used the Windows `ipconfig` command to identify my local IP address and 
 
 The example results provided in the practical identified four live hosts:
 
-- `10.0.0.1`
-- `10.0.0.4`
-- `10.0.0.19`
-- `10.0.0.5`
+- `10.62.154.48`
+- `10.62.154.68`
 
-The example results also included four MAC addresses.
+The example results also included one MAC address.
 
 After completing the scan, I opened the **Topology** section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
 
@@ -144,20 +142,22 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 # 8. Evidences Collected
 
-*Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
+*Screenshots collected as evidence during the activities:*
 
-![whois output](screenshots/1_whois.png)
+![whois output](1_whois1.png)
 
-![whatweb output](screenshots/2_whatweb.png)
+![whatweb output](5_whatweb.png)
 
-![nslookup output](screenshots/3_nslookup.png)
+![nslookup output](6_nslookup.png)
 
-![curl output](screenshots/4_curl.png)
+![curl output](7_curl.png)
 
-![wafw00f output](screenshots/5_wafw00f.png)
+![wafw00f output](8_wafw00f.png)
 
-![dnsrecon output](screenshots/7_zenmap.png)
+![dnsrecon output](9_dnsrecon.png)
 
-![Zenmap scan and topology](screenshots/8_zenmap2.png)
+![dnsrecon output](10_zenmap1.png)
+
+![Zenmap scan and topology](11_zenmap2.png)
 
 -End-
