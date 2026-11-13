@@ -161,3 +161,11 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 ![Zenmap scan and topology](11_zemap2.png)
 
 -End-
+
+👤 Author
+Manahil
+Cybersecurity Intern B084
+LinkedIn: https://www.linkedin.com/in/manahil-ejaz-61164b416
+________________________________________
+📌 Project Information
+Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
